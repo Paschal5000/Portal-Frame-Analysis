@@ -1,10 +1,10 @@
-🏗 2D Portal Frame Structural Analysis – Stiffness Matrix Method
+**🏗 2D Portal Frame Structural Analysis – Stiffness Matrix Method**
 
 This Python program performs structural analysis of 2D portal frames using the stiffness matrix method. It’s built to support engineers, researchers, and students in analyzing statically indeterminate structures efficiently and accurately.
 
 ---
 
-✨ Features
+**✨ Features**
 - Stiffness matrix assembly for 2D frames
 - Supports:
   - Point loads
@@ -20,14 +20,14 @@ This Python program performs structural analysis of 2D portal frames using the s
 
 ---
 
-🛠 Applications
+**🛠 Applications**
 - Educational demonstrations
 - Preliminary structural design
 - Learning and teaching matrix-based analysis
 
 ---
 
-🐍 Requirements
+**🐍 Requirements**
 - Python 3.x
 - numpy
 - tabulate
@@ -39,7 +39,7 @@ pip install numpy tabulate
 
 ---
 
-📁 How to Use
+**📁 How to Use**
 1. Clone or download the repo.
 2. Define frame geometry, material properties, loads, and supports in the input section.
 3. Run the script.
